@@ -1,0 +1,2422 @@
+[{
+    "date": "2017-01-01",
+    "month": "01",
+    "week": "52",
+    "weekday": "Sunday",
+    "close": "6928.6492"
+},
+{
+    "date": "2017-01-02",
+    "month": "01",
+    "week": "1",
+    "weekday": "Monday",
+    "close": "7070.2554"
+},
+{
+    "date": "2017-01-03",
+    "month": "01",
+    "week": "1",
+    "weekday": "Tuesday",
+    "close": "7175.1082"
+},
+{
+    "date": "2017-01-04",
+    "month": "01",
+    "week": "1",
+    "weekday": "Wednesday",
+    "close": "7835.7615"
+},
+{
+    "date": "2017-01-05",
+    "month": "01",
+    "week": "1",
+    "weekday": "Thursday",
+    "close": "6928.7578"
+},
+{
+    "date": "2017-01-06",
+    "month": "01",
+    "week": "1",
+    "weekday": "Friday",
+    "close": "6196.6928"
+},
+{
+    "date": "2017-01-07",
+    "month": "01",
+    "week": "1",
+    "weekday": "Saturday",
+    "close": "6262.1471"
+},
+{
+    "date": "2017-01-08",
+    "month": "01",
+    "week": "1",
+    "weekday": "Sunday",
+    "close": "6319.9404"
+},
+{
+    "date": "2017-01-09",
+    "month": "01",
+    "week": "2",
+    "weekday": "Monday",
+    "close": "6239.1506"
+},
+{
+    "date": "2017-01-10",
+    "month": "01",
+    "week": "2",
+    "weekday": "Tuesday",
+    "close": "6263.1548"
+},
+{
+    "date": "2017-01-11",
+    "month": "01",
+    "week": "2",
+    "weekday": "Wednesday",
+    "close": "5383.0598"
+},
+{
+    "date": "2017-01-12",
+    "month": "01",
+    "week": "2",
+    "weekday": "Thursday",
+    "close": "5566.7345"
+},
+{
+    "date": "2017-01-13",
+    "month": "01",
+    "week": "2",
+    "weekday": "Friday",
+    "close": "5700.0716"
+},
+{
+    "date": "2017-01-14",
+    "month": "01",
+    "week": "2",
+    "weekday": "Saturday",
+    "close": "5648.6897"
+},
+{
+    "date": "2017-01-15",
+    "month": "01",
+    "week": "2",
+    "weekday": "Sunday",
+    "close": "5674.7977"
+},
+{
+    "date": "2017-01-16",
+    "month": "01",
+    "week": "3",
+    "weekday": "Monday",
+    "close": "5730.0658"
+},
+{
+    "date": "2017-01-17",
+    "month": "01",
+    "week": "3",
+    "weekday": "Tuesday",
+    "close": "6202.9704"
+},
+{
+    "date": "2017-01-18",
+    "month": "01",
+    "week": "3",
+    "weekday": "Wednesday",
+    "close": "6047.6601"
+},
+{
+    "date": "2017-01-19",
+    "month": "01",
+    "week": "3",
+    "weekday": "Thursday",
+    "close": "6170.8433"
+},
+{
+    "date": "2017-01-20",
+    "month": "01",
+    "week": "3",
+    "weekday": "Friday",
+    "close": "6131.2511"
+},
+{
+    "date": "2017-01-21",
+    "month": "01",
+    "week": "3",
+    "weekday": "Saturday",
+    "close": "6326.3657"
+},
+{
+    "date": "2017-01-22",
+    "month": "01",
+    "week": "3",
+    "weekday": "Sunday",
+    "close": "6362.9482"
+},
+{
+    "date": "2017-01-23",
+    "month": "01",
+    "week": "4",
+    "weekday": "Monday",
+    "close": "6255.5602"
+},
+{
+    "date": "2017-01-24",
+    "month": "01",
+    "week": "4",
+    "weekday": "Tuesday",
+    "close": "6074.8333"
+},
+{
+    "date": "2017-01-25",
+    "month": "01",
+    "week": "4",
+    "weekday": "Wednesday",
+    "close": "6154.6958"
+},
+{
+    "date": "2017-01-26",
+    "month": "01",
+    "week": "4",
+    "weekday": "Thursday",
+    "close": "6295.3388"
+},
+{
+    "date": "2017-01-27",
+    "month": "01",
+    "week": "4",
+    "weekday": "Friday",
+    "close": "6320.7206"
+},
+{
+    "date": "2017-01-28",
+    "month": "01",
+    "week": "4",
+    "weekday": "Saturday",
+    "close": "6332.5389"
+},
+{
+    "date": "2017-01-29",
+    "month": "01",
+    "week": "4",
+    "weekday": "Sunday",
+    "close": "6289.1698"
+},
+{
+    "date": "2017-01-30",
+    "month": "01",
+    "week": "5",
+    "weekday": "Monday",
+    "close": "6332.8246"
+},
+{
+    "date": "2017-01-31",
+    "month": "01",
+    "week": "5",
+    "weekday": "Tuesday",
+    "close": "6657.8667"
+},
+{
+    "date": "2017-02-01",
+    "month": "02",
+    "week": "5",
+    "weekday": "Wednesday",
+    "close": "6793.7077"
+},
+{
+    "date": "2017-02-02",
+    "month": "02",
+    "week": "5",
+    "weekday": "Thursday",
+    "close": "6934.3856"
+},
+{
+    "date": "2017-02-03",
+    "month": "02",
+    "week": "5",
+    "weekday": "Friday",
+    "close": "6995.2901"
+},
+{
+    "date": "2017-02-04",
+    "month": "02",
+    "week": "5",
+    "weekday": "Saturday",
+    "close": "7102.0714"
+},
+{
+    "date": "2017-02-05",
+    "month": "02",
+    "week": "5",
+    "weekday": "Sunday",
+    "close": "6965.9773"
+},
+{
+    "date": "2017-02-06",
+    "month": "02",
+    "week": "6",
+    "weekday": "Monday",
+    "close": "7034.2211"
+},
+{
+    "date": "2017-02-07",
+    "month": "02",
+    "week": "6",
+    "weekday": "Tuesday",
+    "close": "7245.8877"
+},
+{
+    "date": "2017-02-08",
+    "month": "02",
+    "week": "6",
+    "weekday": "Wednesday",
+    "close": "7246.6303"
+},
+{
+    "date": "2017-02-09",
+    "month": "02",
+    "week": "6",
+    "weekday": "Thursday",
+    "close": "6811.6794"
+},
+{
+    "date": "2017-02-10",
+    "month": "02",
+    "week": "6",
+    "weekday": "Friday",
+    "close": "6833.4884"
+},
+{
+    "date": "2017-02-11",
+    "month": "02",
+    "week": "6",
+    "weekday": "Saturday",
+    "close": "6946.09"
+},
+{
+    "date": "2017-02-12",
+    "month": "02",
+    "week": "6",
+    "weekday": "Sunday",
+    "close": "6883.9424"
+},
+{
+    "date": "2017-02-13",
+    "month": "02",
+    "week": "7",
+    "weekday": "Monday",
+    "close": "6858.5789"
+},
+{
+    "date": "2017-02-14",
+    "month": "02",
+    "week": "7",
+    "weekday": "Tuesday",
+    "close": "6930.882"
+},
+{
+    "date": "2017-02-15",
+    "month": "02",
+    "week": "7",
+    "weekday": "Wednesday",
+    "close": "6935.3788"
+},
+{
+    "date": "2017-02-16",
+    "month": "02",
+    "week": "7",
+    "weekday": "Thursday",
+    "close": "7088.8535"
+},
+{
+    "date": "2017-02-17",
+    "month": "02",
+    "week": "7",
+    "weekday": "Friday",
+    "close": "7229.5808"
+},
+{
+    "date": "2017-02-18",
+    "month": "02",
+    "week": "7",
+    "weekday": "Saturday",
+    "close": "7267.5468"
+},
+{
+    "date": "2017-02-19",
+    "month": "02",
+    "week": "7",
+    "weekday": "Sunday",
+    "close": "7220.5385"
+},
+{
+    "date": "2017-02-20",
+    "month": "02",
+    "week": "8",
+    "weekday": "Monday",
+    "close": "7450.2901"
+},
+{
+    "date": "2017-02-21",
+    "month": "02",
+    "week": "8",
+    "weekday": "Tuesday",
+    "close": "7732.4979"
+},
+{
+    "date": "2017-02-22",
+    "month": "02",
+    "week": "8",
+    "weekday": "Wednesday",
+    "close": "7716.2218"
+},
+{
+    "date": "2017-02-23",
+    "month": "02",
+    "week": "8",
+    "weekday": "Thursday",
+    "close": "8092.0221"
+},
+{
+    "date": "2017-02-24",
+    "month": "02",
+    "week": "8",
+    "weekday": "Friday",
+    "close": "8109.1867"
+},
+{
+    "date": "2017-02-25",
+    "month": "02",
+    "week": "8",
+    "weekday": "Saturday",
+    "close": "7908.54"
+},
+{
+    "date": "2017-02-26",
+    "month": "02",
+    "week": "8",
+    "weekday": "Sunday",
+    "close": "8137.4131"
+},
+{
+    "date": "2017-02-27",
+    "month": "02",
+    "week": "9",
+    "weekday": "Monday",
+    "close": "8206.1829"
+},
+{
+    "date": "2017-02-28",
+    "month": "02",
+    "week": "9",
+    "weekday": "Tuesday",
+    "close": "8176.3692"
+},
+{
+    "date": "2017-03-01",
+    "month": "03",
+    "week": "9",
+    "weekday": "Wednesday",
+    "close": "8464.3549"
+},
+{
+    "date": "2017-03-02",
+    "month": "03",
+    "week": "9",
+    "weekday": "Thursday",
+    "close": "8688.7751"
+},
+{
+    "date": "2017-03-03",
+    "month": "03",
+    "week": "9",
+    "weekday": "Friday",
+    "close": "8900.4858"
+},
+{
+    "date": "2017-03-04",
+    "month": "03",
+    "week": "9",
+    "weekday": "Saturday",
+    "close": "8741.0338"
+},
+{
+    "date": "2017-03-05",
+    "month": "03",
+    "week": "9",
+    "weekday": "Sunday",
+    "close": "8816.6651"
+},
+{
+    "date": "2017-03-06",
+    "month": "03",
+    "week": "10",
+    "weekday": "Monday",
+    "close": "8832.9615"
+},
+{
+    "date": "2017-03-07",
+    "month": "03",
+    "week": "10",
+    "weekday": "Tuesday",
+    "close": "8504.1113"
+},
+{
+    "date": "2017-03-08",
+    "month": "03",
+    "week": "10",
+    "weekday": "Wednesday",
+    "close": "7953.9243"
+},
+{
+    "date": "2017-03-09",
+    "month": "03",
+    "week": "10",
+    "weekday": "Thursday",
+    "close": "8235.799"
+},
+{
+    "date": "2017-03-10",
+    "month": "03",
+    "week": "10",
+    "weekday": "Friday",
+    "close": "7716.1296"
+},
+{
+    "date": "2017-03-11",
+    "month": "03",
+    "week": "10",
+    "weekday": "Saturday",
+    "close": "8161.7404"
+},
+{
+    "date": "2017-03-12",
+    "month": "03",
+    "week": "10",
+    "weekday": "Sunday",
+    "close": "8441.5353"
+},
+{
+    "date": "2017-03-13",
+    "month": "03",
+    "week": "11",
+    "weekday": "Monday",
+    "close": "8595.5263"
+},
+{
+    "date": "2017-03-14",
+    "month": "03",
+    "week": "11",
+    "weekday": "Tuesday",
+    "close": "8616.949"
+},
+{
+    "date": "2017-03-15",
+    "month": "03",
+    "week": "11",
+    "weekday": "Wednesday",
+    "close": "8711.306"
+},
+{
+    "date": "2017-03-16",
+    "month": "03",
+    "week": "11",
+    "weekday": "Thursday",
+    "close": "8091.7411"
+},
+{
+    "date": "2017-03-17",
+    "month": "03",
+    "week": "11",
+    "weekday": "Friday",
+    "close": "7379.6562"
+},
+{
+    "date": "2017-03-18",
+    "month": "03",
+    "week": "11",
+    "weekday": "Saturday",
+    "close": "6694.36"
+},
+{
+    "date": "2017-03-19",
+    "month": "03",
+    "week": "11",
+    "weekday": "Sunday",
+    "close": "7028.0107"
+},
+{
+    "date": "2017-03-20",
+    "month": "03",
+    "week": "12",
+    "weekday": "Monday",
+    "close": "7196.3568"
+},
+{
+    "date": "2017-03-21",
+    "month": "03",
+    "week": "12",
+    "weekday": "Tuesday",
+    "close": "7680.723"
+},
+{
+    "date": "2017-03-22",
+    "month": "03",
+    "week": "12",
+    "weekday": "Wednesday",
+    "close": "7139.7016"
+},
+{
+    "date": "2017-03-23",
+    "month": "03",
+    "week": "12",
+    "weekday": "Thursday",
+    "close": "7092.2246"
+},
+{
+    "date": "2017-03-24",
+    "month": "03",
+    "week": "12",
+    "weekday": "Friday",
+    "close": "6437.3431"
+},
+{
+    "date": "2017-03-25",
+    "month": "03",
+    "week": "12",
+    "weekday": "Saturday",
+    "close": "6640.554"
+},
+{
+    "date": "2017-03-26",
+    "month": "03",
+    "week": "12",
+    "weekday": "Sunday",
+    "close": "6623.5896"
+},
+{
+    "date": "2017-03-27",
+    "month": "03",
+    "week": "13",
+    "weekday": "Monday",
+    "close": "7151.8202"
+},
+{
+    "date": "2017-03-28",
+    "month": "03",
+    "week": "13",
+    "weekday": "Tuesday",
+    "close": "7184.6725"
+},
+{
+    "date": "2017-03-29",
+    "month": "03",
+    "week": "13",
+    "weekday": "Wednesday",
+    "close": "7168.8792"
+},
+{
+    "date": "2017-03-30",
+    "month": "03",
+    "week": "13",
+    "weekday": "Thursday",
+    "close": "7146.3119"
+},
+{
+    "date": "2017-03-31",
+    "month": "03",
+    "week": "13",
+    "weekday": "Friday",
+    "close": "7439.1397"
+},
+{
+    "date": "2017-04-01",
+    "month": "04",
+    "week": "13",
+    "weekday": "Saturday",
+    "close": "7506.4038"
+},
+{
+    "date": "2017-04-02",
+    "month": "04",
+    "week": "13",
+    "weekday": "Sunday",
+    "close": "7566.0156"
+},
+{
+    "date": "2017-04-03",
+    "month": "04",
+    "week": "14",
+    "weekday": "Monday",
+    "close": "7903.6773"
+},
+{
+    "date": "2017-04-04",
+    "month": "04",
+    "week": "14",
+    "weekday": "Tuesday",
+    "close": "7874.9773"
+},
+{
+    "date": "2017-04-05",
+    "month": "04",
+    "week": "14",
+    "weekday": "Wednesday",
+    "close": "7827.8202"
+},
+{
+    "date": "2017-04-06",
+    "month": "04",
+    "week": "14",
+    "weekday": "Thursday",
+    "close": "8212.9762"
+},
+{
+    "date": "2017-04-07",
+    "month": "04",
+    "week": "14",
+    "weekday": "Friday",
+    "close": "8236.9016"
+},
+{
+    "date": "2017-04-08",
+    "month": "04",
+    "week": "14",
+    "weekday": "Saturday",
+    "close": "8180.3212"
+},
+{
+    "date": "2017-04-09",
+    "month": "04",
+    "week": "14",
+    "weekday": "Sunday",
+    "close": "8354.8293"
+},
+{
+    "date": "2017-04-10",
+    "month": "04",
+    "week": "15",
+    "weekday": "Monday",
+    "close": "8375.1346"
+},
+{
+    "date": "2017-04-11",
+    "month": "04",
+    "week": "15",
+    "weekday": "Tuesday",
+    "close": "8442.2186"
+},
+{
+    "date": "2017-04-12",
+    "month": "04",
+    "week": "15",
+    "weekday": "Wednesday",
+    "close": "8382.4873"
+},
+{
+    "date": "2017-04-13",
+    "month": "04",
+    "week": "15",
+    "weekday": "Thursday",
+    "close": "8117.4785"
+},
+{
+    "date": "2017-04-14",
+    "month": "04",
+    "week": "15",
+    "weekday": "Friday",
+    "close": "8151.1798"
+},
+{
+    "date": "2017-04-15",
+    "month": "04",
+    "week": "15",
+    "weekday": "Saturday",
+    "close": "8129.5847"
+},
+{
+    "date": "2017-04-16",
+    "month": "04",
+    "week": "15",
+    "weekday": "Sunday",
+    "close": "8167.0471"
+},
+{
+    "date": "2017-04-17",
+    "month": "04",
+    "week": "16",
+    "weekday": "Monday",
+    "close": "8267.104"
+},
+{
+    "date": "2017-04-18",
+    "month": "04",
+    "week": "16",
+    "weekday": "Tuesday",
+    "close": "8379.7232"
+},
+{
+    "date": "2017-04-19",
+    "month": "04",
+    "week": "16",
+    "weekday": "Wednesday",
+    "close": "8436.3248"
+},
+{
+    "date": "2017-04-20",
+    "month": "04",
+    "week": "16",
+    "weekday": "Thursday",
+    "close": "8639.4949"
+},
+{
+    "date": "2017-04-21",
+    "month": "04",
+    "week": "16",
+    "weekday": "Friday",
+    "close": "8654.9971"
+},
+{
+    "date": "2017-04-22",
+    "month": "04",
+    "week": "16",
+    "weekday": "Saturday",
+    "close": "8567.1483"
+},
+{
+    "date": "2017-04-23",
+    "month": "04",
+    "week": "16",
+    "weekday": "Sunday",
+    "close": "8458.4188"
+},
+{
+    "date": "2017-04-24",
+    "month": "04",
+    "week": "17",
+    "weekday": "Monday",
+    "close": "8594.2345"
+},
+{
+    "date": "2017-04-25",
+    "month": "04",
+    "week": "17",
+    "weekday": "Tuesday",
+    "close": "8700.0125"
+},
+{
+    "date": "2017-04-26",
+    "month": "04",
+    "week": "17",
+    "weekday": "Wednesday",
+    "close": "8857.1946"
+},
+{
+    "date": "2017-04-27",
+    "month": "04",
+    "week": "17",
+    "weekday": "Thursday",
+    "close": "9167.2508"
+},
+{
+    "date": "2017-04-28",
+    "month": "04",
+    "week": "17",
+    "weekday": "Friday",
+    "close": "9101.0934"
+},
+{
+    "date": "2017-04-29",
+    "month": "04",
+    "week": "17",
+    "weekday": "Saturday",
+    "close": "9149.9325"
+},
+{
+    "date": "2017-04-30",
+    "month": "04",
+    "week": "17",
+    "weekday": "Sunday",
+    "close": "9325.1119"
+},
+{
+    "date": "2017-05-01",
+    "month": "05",
+    "week": "18",
+    "weekday": "Monday",
+    "close": "9665.7551"
+},
+{
+    "date": "2017-05-02",
+    "month": "05",
+    "week": "18",
+    "weekday": "Tuesday",
+    "close": "9944.3653"
+},
+{
+    "date": "2017-05-03",
+    "month": "05",
+    "week": "18",
+    "weekday": "Wednesday",
+    "close": "10292.3296"
+},
+{
+    "date": "2017-05-04",
+    "month": "05",
+    "week": "18",
+    "weekday": "Thursday",
+    "close": "10452.0037"
+},
+{
+    "date": "2017-05-05",
+    "month": "05",
+    "week": "18",
+    "weekday": "Friday",
+    "close": "10439.0799"
+},
+{
+    "date": "2017-05-06",
+    "month": "05",
+    "week": "18",
+    "weekday": "Saturday",
+    "close": "10688.1301"
+},
+{
+    "date": "2017-05-07",
+    "month": "05",
+    "week": "18",
+    "weekday": "Sunday",
+    "close": "10660.1939"
+},
+{
+    "date": "2017-05-08",
+    "month": "05",
+    "week": "19",
+    "weekday": "Monday",
+    "close": "11317.8009"
+},
+{
+    "date": "2017-05-09",
+    "month": "05",
+    "week": "19",
+    "weekday": "Tuesday",
+    "close": "11794.8949"
+},
+{
+    "date": "2017-05-10",
+    "month": "05",
+    "week": "19",
+    "weekday": "Wednesday",
+    "close": "12126.2961"
+},
+{
+    "date": "2017-05-11",
+    "month": "05",
+    "week": "19",
+    "weekday": "Thursday",
+    "close": "12478.0838"
+},
+{
+    "date": "2017-05-12",
+    "month": "05",
+    "week": "19",
+    "weekday": "Friday",
+    "close": "11569.4125"
+},
+{
+    "date": "2017-05-13",
+    "month": "05",
+    "week": "19",
+    "weekday": "Saturday",
+    "close": "12141.797"
+},
+{
+    "date": "2017-05-14",
+    "month": "05",
+    "week": "19",
+    "weekday": "Sunday",
+    "close": "12229.3176"
+},
+{
+    "date": "2017-05-15",
+    "month": "05",
+    "week": "20",
+    "weekday": "Monday",
+    "close": "11701.2204"
+},
+{
+    "date": "2017-05-16",
+    "month": "05",
+    "week": "20",
+    "weekday": "Tuesday",
+    "close": "11835.218"
+},
+{
+    "date": "2017-05-17",
+    "month": "05",
+    "week": "20",
+    "weekday": "Wednesday",
+    "close": "12403.3024"
+},
+{
+    "date": "2017-05-18",
+    "month": "05",
+    "week": "20",
+    "weekday": "Thursday",
+    "close": "13002.0625"
+},
+{
+    "date": "2017-05-19",
+    "month": "05",
+    "week": "20",
+    "weekday": "Friday",
+    "close": "13549.3033"
+},
+{
+    "date": "2017-05-20",
+    "month": "05",
+    "week": "20",
+    "weekday": "Saturday",
+    "close": "14127.3239"
+},
+{
+    "date": "2017-05-21",
+    "month": "05",
+    "week": "20",
+    "weekday": "Sunday",
+    "close": "14091.8068"
+},
+{
+    "date": "2017-05-22",
+    "month": "05",
+    "week": "21",
+    "weekday": "Monday",
+    "close": "14731.8028"
+},
+{
+    "date": "2017-05-23",
+    "month": "05",
+    "week": "21",
+    "weekday": "Tuesday",
+    "close": "15784.8432"
+},
+{
+    "date": "2017-05-24",
+    "month": "05",
+    "week": "21",
+    "weekday": "Wednesday",
+    "close": "17061.8818"
+},
+{
+    "date": "2017-05-25",
+    "month": "05",
+    "week": "21",
+    "weekday": "Thursday",
+    "close": "16190.3931"
+},
+{
+    "date": "2017-05-26",
+    "month": "05",
+    "week": "21",
+    "weekday": "Friday",
+    "close": "15402.2219"
+},
+{
+    "date": "2017-05-27",
+    "month": "05",
+    "week": "21",
+    "weekday": "Saturday",
+    "close": "14440.0015"
+},
+{
+    "date": "2017-05-28",
+    "month": "05",
+    "week": "21",
+    "weekday": "Sunday",
+    "close": "15139.4071"
+},
+{
+    "date": "2017-05-29",
+    "month": "05",
+    "week": "22",
+    "weekday": "Monday",
+    "close": "15700.3794"
+},
+{
+    "date": "2017-05-30",
+    "month": "05",
+    "week": "22",
+    "weekday": "Tuesday",
+    "close": "15064.5355"
+},
+{
+    "date": "2017-05-31",
+    "month": "05",
+    "week": "22",
+    "weekday": "Wednesday",
+    "close": "15869.5798"
+},
+{
+    "date": "2017-06-01",
+    "month": "06",
+    "week": "22",
+    "weekday": "Thursday",
+    "close": "16693.6332"
+},
+{
+    "date": "2017-06-02",
+    "month": "06",
+    "week": "22",
+    "weekday": "Friday",
+    "close": "17149.9736"
+},
+{
+    "date": "2017-06-03",
+    "month": "06",
+    "week": "22",
+    "weekday": "Saturday",
+    "close": "17410.0077"
+},
+{
+    "date": "2017-06-04",
+    "month": "06",
+    "week": "22",
+    "weekday": "Sunday",
+    "close": "17399.0513"
+},
+{
+    "date": "2017-06-05",
+    "month": "06",
+    "week": "23",
+    "weekday": "Monday",
+    "close": "18621.161"
+},
+{
+    "date": "2017-06-06",
+    "month": "06",
+    "week": "23",
+    "weekday": "Tuesday",
+    "close": "19797.8391"
+},
+{
+    "date": "2017-06-07",
+    "month": "06",
+    "week": "23",
+    "weekday": "Wednesday",
+    "close": "18205.3747"
+},
+{
+    "date": "2017-06-08",
+    "month": "06",
+    "week": "23",
+    "weekday": "Thursday",
+    "close": "19209.0831"
+},
+{
+    "date": "2017-06-09",
+    "month": "06",
+    "week": "23",
+    "weekday": "Friday",
+    "close": "19218.5925"
+},
+{
+    "date": "2017-06-10",
+    "month": "06",
+    "week": "23",
+    "weekday": "Saturday",
+    "close": "20004.1207"
+},
+{
+    "date": "2017-06-11",
+    "month": "06",
+    "week": "23",
+    "weekday": "Sunday",
+    "close": "20472.3611"
+},
+{
+    "date": "2017-06-12",
+    "month": "06",
+    "week": "24",
+    "weekday": "Monday",
+    "close": "18234.4754"
+},
+{
+    "date": "2017-06-13",
+    "month": "06",
+    "week": "24",
+    "weekday": "Tuesday",
+    "close": "18615.1877"
+},
+{
+    "date": "2017-06-14",
+    "month": "06",
+    "week": "24",
+    "weekday": "Wednesday",
+    "close": "16946.0339"
+},
+{
+    "date": "2017-06-15",
+    "month": "06",
+    "week": "24",
+    "weekday": "Thursday",
+    "close": "16724.4891"
+},
+{
+    "date": "2017-06-16",
+    "month": "06",
+    "week": "24",
+    "weekday": "Friday",
+    "close": "17217.0095"
+},
+{
+    "date": "2017-06-17",
+    "month": "06",
+    "week": "24",
+    "weekday": "Saturday",
+    "close": "18142.6219"
+},
+{
+    "date": "2017-06-18",
+    "month": "06",
+    "week": "24",
+    "weekday": "Sunday",
+    "close": "17535.8535"
+},
+{
+    "date": "2017-06-19",
+    "month": "06",
+    "week": "25",
+    "weekday": "Monday",
+    "close": "18015.1039"
+},
+{
+    "date": "2017-06-20",
+    "month": "06",
+    "week": "25",
+    "weekday": "Tuesday",
+    "close": "18975.7796"
+},
+{
+    "date": "2017-06-21",
+    "month": "06",
+    "week": "25",
+    "weekday": "Wednesday",
+    "close": "18522.6802"
+},
+{
+    "date": "2017-06-22",
+    "month": "06",
+    "week": "25",
+    "weekday": "Thursday",
+    "close": "18733.2802"
+},
+{
+    "date": "2017-06-23",
+    "month": "06",
+    "week": "25",
+    "weekday": "Friday",
+    "close": "18720.4229"
+},
+{
+    "date": "2017-06-24",
+    "month": "06",
+    "week": "25",
+    "weekday": "Saturday",
+    "close": "17906.1295"
+},
+{
+    "date": "2017-06-25",
+    "month": "06",
+    "week": "25",
+    "weekday": "Sunday",
+    "close": "17734.3884"
+},
+{
+    "date": "2017-06-26",
+    "month": "06",
+    "week": "26",
+    "weekday": "Monday",
+    "close": "17001.592"
+},
+{
+    "date": "2017-06-27",
+    "month": "06",
+    "week": "26",
+    "weekday": "Tuesday",
+    "close": "17666.3417"
+},
+{
+    "date": "2017-06-28",
+    "month": "06",
+    "week": "26",
+    "weekday": "Wednesday",
+    "close": "17575.261"
+},
+{
+    "date": "2017-06-29",
+    "month": "06",
+    "week": "26",
+    "weekday": "Thursday",
+    "close": "17385.3171"
+},
+{
+    "date": "2017-06-30",
+    "month": "06",
+    "week": "26",
+    "weekday": "Friday",
+    "close": "16943.0147"
+},
+{
+    "date": "2017-07-01",
+    "month": "07",
+    "week": "26",
+    "weekday": "Saturday",
+    "close": "16674.129"
+},
+{
+    "date": "2017-07-02",
+    "month": "07",
+    "week": "26",
+    "weekday": "Sunday",
+    "close": "17150.7103"
+},
+{
+    "date": "2017-07-03",
+    "month": "07",
+    "week": "27",
+    "weekday": "Monday",
+    "close": "17549.3179"
+},
+{
+    "date": "2017-07-04",
+    "month": "07",
+    "week": "27",
+    "weekday": "Tuesday",
+    "close": "17851.5456"
+},
+{
+    "date": "2017-07-05",
+    "month": "07",
+    "week": "27",
+    "weekday": "Wednesday",
+    "close": "17812.6481"
+},
+{
+    "date": "2017-07-06",
+    "month": "07",
+    "week": "27",
+    "weekday": "Thursday",
+    "close": "17813.1077"
+},
+{
+    "date": "2017-07-07",
+    "month": "07",
+    "week": "27",
+    "weekday": "Friday",
+    "close": "17156.6351"
+},
+{
+    "date": "2017-07-08",
+    "month": "07",
+    "week": "27",
+    "weekday": "Saturday",
+    "close": "17557.352"
+},
+{
+    "date": "2017-07-09",
+    "month": "07",
+    "week": "27",
+    "weekday": "Sunday",
+    "close": "17189.5013"
+},
+{
+    "date": "2017-07-10",
+    "month": "07",
+    "week": "28",
+    "weekday": "Monday",
+    "close": "16137.2933"
+},
+{
+    "date": "2017-07-11",
+    "month": "07",
+    "week": "28",
+    "weekday": "Tuesday",
+    "close": "15865.7291"
+},
+{
+    "date": "2017-07-12",
+    "month": "07",
+    "week": "28",
+    "weekday": "Wednesday",
+    "close": "16446.9487"
+},
+{
+    "date": "2017-07-13",
+    "month": "07",
+    "week": "28",
+    "weekday": "Thursday",
+    "close": "16036.6222"
+},
+{
+    "date": "2017-07-14",
+    "month": "07",
+    "week": "28",
+    "weekday": "Friday",
+    "close": "15132.8235"
+},
+{
+    "date": "2017-07-15",
+    "month": "07",
+    "week": "28",
+    "weekday": "Saturday",
+    "close": "13510.2081"
+},
+{
+    "date": "2017-07-16",
+    "month": "07",
+    "week": "28",
+    "weekday": "Sunday",
+    "close": "13075.9378"
+},
+{
+    "date": "2017-07-17",
+    "month": "07",
+    "week": "29",
+    "weekday": "Monday",
+    "close": "15192.6798"
+},
+{
+    "date": "2017-07-18",
+    "month": "07",
+    "week": "29",
+    "weekday": "Tuesday",
+    "close": "15706.0407"
+},
+{
+    "date": "2017-07-19",
+    "month": "07",
+    "week": "29",
+    "weekday": "Wednesday",
+    "close": "15491.8987"
+},
+{
+    "date": "2017-07-20",
+    "month": "07",
+    "week": "29",
+    "weekday": "Thursday",
+    "close": "19449.5488"
+},
+{
+    "date": "2017-07-21",
+    "month": "07",
+    "week": "29",
+    "weekday": "Friday",
+    "close": "18231.0571"
+},
+{
+    "date": "2017-07-22",
+    "month": "07",
+    "week": "29",
+    "weekday": "Saturday",
+    "close": "19210.2278"
+},
+{
+    "date": "2017-07-23",
+    "month": "07",
+    "week": "29",
+    "weekday": "Sunday",
+    "close": "18585.2759"
+},
+{
+    "date": "2017-07-24",
+    "month": "07",
+    "week": "30",
+    "weekday": "Monday",
+    "close": "18762.6589"
+},
+{
+    "date": "2017-07-25",
+    "month": "07",
+    "week": "30",
+    "weekday": "Tuesday",
+    "close": "17489.6893"
+},
+{
+    "date": "2017-07-26",
+    "month": "07",
+    "week": "30",
+    "weekday": "Wednesday",
+    "close": "17219.7355"
+},
+{
+    "date": "2017-07-27",
+    "month": "07",
+    "week": "30",
+    "weekday": "Thursday",
+    "close": "18188.4669"
+},
+{
+    "date": "2017-07-28",
+    "month": "07",
+    "week": "30",
+    "weekday": "Friday",
+    "close": "18898.2088"
+},
+{
+    "date": "2017-07-29",
+    "month": "07",
+    "week": "30",
+    "weekday": "Saturday",
+    "close": "18326.2673"
+},
+{
+    "date": "2017-07-30",
+    "month": "07",
+    "week": "30",
+    "weekday": "Sunday",
+    "close": "18499.4572"
+},
+{
+    "date": "2017-07-31",
+    "month": "07",
+    "week": "31",
+    "weekday": "Monday",
+    "close": "19334.0151"
+},
+{
+    "date": "2017-08-01",
+    "month": "08",
+    "week": "31",
+    "weekday": "Tuesday",
+    "close": "18376.5093"
+},
+{
+    "date": "2017-08-02",
+    "month": "08",
+    "week": "31",
+    "weekday": "Wednesday",
+    "close": "18305.9985"
+},
+{
+    "date": "2017-08-03",
+    "month": "08",
+    "week": "31",
+    "weekday": "Thursday",
+    "close": "18901.8131"
+},
+{
+    "date": "2017-08-04",
+    "month": "08",
+    "week": "31",
+    "weekday": "Friday",
+    "close": "19412.7978"
+},
+{
+    "date": "2017-08-05",
+    "month": "08",
+    "week": "31",
+    "weekday": "Saturday",
+    "close": "22227.2745"
+},
+{
+    "date": "2017-08-06",
+    "month": "08",
+    "week": "31",
+    "weekday": "Sunday",
+    "close": "22027.9885"
+},
+{
+    "date": "2017-08-07",
+    "month": "08",
+    "week": "32",
+    "weekday": "Monday",
+    "close": "23063.1732"
+},
+{
+    "date": "2017-08-08",
+    "month": "08",
+    "week": "32",
+    "weekday": "Tuesday",
+    "close": "23332.6502"
+},
+{
+    "date": "2017-08-09",
+    "month": "08",
+    "week": "32",
+    "weekday": "Wednesday",
+    "close": "22541.6557"
+},
+{
+    "date": "2017-08-10",
+    "month": "08",
+    "week": "32",
+    "weekday": "Thursday",
+    "close": "22904.393"
+},
+{
+    "date": "2017-08-11",
+    "month": "08",
+    "week": "32",
+    "weekday": "Friday",
+    "close": "24526.2402"
+},
+{
+    "date": "2017-08-12",
+    "month": "08",
+    "week": "32",
+    "weekday": "Saturday",
+    "close": "26109.954"
+},
+{
+    "date": "2017-08-13",
+    "month": "08",
+    "week": "32",
+    "weekday": "Sunday",
+    "close": "27390.8412"
+},
+{
+    "date": "2017-08-14",
+    "month": "08",
+    "week": "33",
+    "weekday": "Monday",
+    "close": "29237.7752"
+},
+{
+    "date": "2017-08-15",
+    "month": "08",
+    "week": "33",
+    "weekday": "Tuesday",
+    "close": "28073.6691"
+},
+{
+    "date": "2017-08-16",
+    "month": "08",
+    "week": "33",
+    "weekday": "Wednesday",
+    "close": "29612.7553"
+},
+{
+    "date": "2017-08-17",
+    "month": "08",
+    "week": "33",
+    "weekday": "Thursday",
+    "close": "28816.4854"
+},
+{
+    "date": "2017-08-18",
+    "month": "08",
+    "week": "33",
+    "weekday": "Friday",
+    "close": "27752.9395"
+},
+{
+    "date": "2017-08-19",
+    "month": "08",
+    "week": "33",
+    "weekday": "Saturday",
+    "close": "28062.8866"
+},
+{
+    "date": "2017-08-20",
+    "month": "08",
+    "week": "33",
+    "weekday": "Sunday",
+    "close": "27416.633"
+},
+{
+    "date": "2017-08-21",
+    "month": "08",
+    "week": "34",
+    "weekday": "Monday",
+    "close": "26919.0691"
+},
+{
+    "date": "2017-08-22",
+    "month": "08",
+    "week": "34",
+    "weekday": "Tuesday",
+    "close": "27565.3902"
+},
+{
+    "date": "2017-08-23",
+    "month": "08",
+    "week": "34",
+    "weekday": "Wednesday",
+    "close": "27907.3345"
+},
+{
+    "date": "2017-08-24",
+    "month": "08",
+    "week": "34",
+    "weekday": "Thursday",
+    "close": "29063.2438"
+},
+{
+    "date": "2017-08-25",
+    "month": "08",
+    "week": "34",
+    "weekday": "Friday",
+    "close": "29305.655"
+},
+{
+    "date": "2017-08-26",
+    "month": "08",
+    "week": "34",
+    "weekday": "Saturday",
+    "close": "29168.7202"
+},
+{
+    "date": "2017-08-27",
+    "month": "08",
+    "week": "34",
+    "weekday": "Sunday",
+    "close": "28945.352"
+},
+{
+    "date": "2017-08-28",
+    "month": "08",
+    "week": "35",
+    "weekday": "Monday",
+    "close": "29340.152"
+},
+{
+    "date": "2017-08-29",
+    "month": "08",
+    "week": "35",
+    "weekday": "Tuesday",
+    "close": "30656.5006"
+},
+{
+    "date": "2017-08-30",
+    "month": "08",
+    "week": "35",
+    "weekday": "Wednesday",
+    "close": "30532.943"
+},
+{
+    "date": "2017-08-31",
+    "month": "08",
+    "week": "35",
+    "weekday": "Thursday",
+    "close": "31391.9005"
+},
+{
+    "date": "2017-09-01",
+    "month": "09",
+    "week": "35",
+    "weekday": "Friday",
+    "close": "32482.9375"
+},
+{
+    "date": "2017-09-02",
+    "month": "09",
+    "week": "35",
+    "weekday": "Saturday",
+    "close": "30470.2819"
+},
+{
+    "date": "2017-09-03",
+    "month": "09",
+    "week": "35",
+    "weekday": "Sunday",
+    "close": "30336.7"
+},
+{
+    "date": "2017-09-04",
+    "month": "09",
+    "week": "36",
+    "weekday": "Monday",
+    "close": "28208.2898"
+},
+{
+    "date": "2017-09-05",
+    "month": "09",
+    "week": "36",
+    "weekday": "Tuesday",
+    "close": "28918.0205"
+},
+{
+    "date": "2017-09-06",
+    "month": "09",
+    "week": "36",
+    "weekday": "Wednesday",
+    "close": "30181.6445"
+},
+{
+    "date": "2017-09-07",
+    "month": "09",
+    "week": "36",
+    "weekday": "Thursday",
+    "close": "30089.0416"
+},
+{
+    "date": "2017-09-08",
+    "month": "09",
+    "week": "36",
+    "weekday": "Friday",
+    "close": "27976.5645"
+},
+{
+    "date": "2017-09-09",
+    "month": "09",
+    "week": "36",
+    "weekday": "Saturday",
+    "close": "27818.6782"
+},
+{
+    "date": "2017-09-10",
+    "month": "09",
+    "week": "36",
+    "weekday": "Sunday",
+    "close": "27359.9317"
+},
+{
+    "date": "2017-09-11",
+    "month": "09",
+    "week": "37",
+    "weekday": "Monday",
+    "close": "27351.0555"
+},
+{
+    "date": "2017-09-12",
+    "month": "09",
+    "week": "37",
+    "weekday": "Tuesday",
+    "close": "27111.147"
+},
+{
+    "date": "2017-09-13",
+    "month": "09",
+    "week": "37",
+    "weekday": "Wednesday",
+    "close": "25354.506"
+},
+{
+    "date": "2017-09-14",
+    "month": "09",
+    "week": "37",
+    "weekday": "Thursday",
+    "close": "21152.8443"
+},
+{
+    "date": "2017-09-15",
+    "month": "09",
+    "week": "37",
+    "weekday": "Friday",
+    "close": "24164.8636"
+},
+{
+    "date": "2017-09-16",
+    "month": "09",
+    "week": "37",
+    "weekday": "Saturday",
+    "close": "24111.3645"
+},
+{
+    "date": "2017-09-17",
+    "month": "09",
+    "week": "37",
+    "weekday": "Sunday",
+    "close": "24057.8213"
+},
+{
+    "date": "2017-09-18",
+    "month": "09",
+    "week": "38",
+    "weekday": "Monday",
+    "close": "26737.3742"
+},
+{
+    "date": "2017-09-19",
+    "month": "09",
+    "week": "38",
+    "weekday": "Tuesday",
+    "close": "25652.4813"
+},
+{
+    "date": "2017-09-20",
+    "month": "09",
+    "week": "38",
+    "weekday": "Wednesday",
+    "close": "25361.3238"
+},
+{
+    "date": "2017-09-21",
+    "month": "09",
+    "week": "38",
+    "weekday": "Thursday",
+    "close": "23804.5608"
+},
+{
+    "date": "2017-09-22",
+    "month": "09",
+    "week": "38",
+    "weekday": "Friday",
+    "close": "23761.1198"
+},
+{
+    "date": "2017-09-23",
+    "month": "09",
+    "week": "38",
+    "weekday": "Saturday",
+    "close": "24908.4204"
+},
+{
+    "date": "2017-09-24",
+    "month": "09",
+    "week": "38",
+    "weekday": "Sunday",
+    "close": "24216.5269"
+},
+{
+    "date": "2017-09-25",
+    "month": "09",
+    "week": "39",
+    "weekday": "Monday",
+    "close": "26007.1112"
+},
+{
+    "date": "2017-09-26",
+    "month": "09",
+    "week": "39",
+    "weekday": "Tuesday",
+    "close": "25869.3194"
+},
+{
+    "date": "2017-09-27",
+    "month": "09",
+    "week": "39",
+    "weekday": "Wednesday",
+    "close": "27955.6252"
+},
+{
+    "date": "2017-09-28",
+    "month": "09",
+    "week": "39",
+    "weekday": "Thursday",
+    "close": "27882.4195"
+},
+{
+    "date": "2017-09-29",
+    "month": "09",
+    "week": "39",
+    "weekday": "Friday",
+    "close": "27711.6948"
+},
+{
+    "date": "2017-09-30",
+    "month": "09",
+    "week": "39",
+    "weekday": "Saturday",
+    "close": "28969.0962"
+},
+{
+    "date": "2017-10-01",
+    "month": "10",
+    "week": "39",
+    "weekday": "Sunday",
+    "close": "29264.4926"
+},
+{
+    "date": "2017-10-02",
+    "month": "10",
+    "week": "40",
+    "weekday": "Monday",
+    "close": "29295.7562"
+},
+{
+    "date": "2017-10-03",
+    "month": "10",
+    "week": "40",
+    "weekday": "Tuesday",
+    "close": "28743.0928"
+},
+{
+    "date": "2017-10-04",
+    "month": "10",
+    "week": "40",
+    "weekday": "Wednesday",
+    "close": "28120.5656"
+},
+{
+    "date": "2017-10-05",
+    "month": "10",
+    "week": "40",
+    "weekday": "Thursday",
+    "close": "28764.0436"
+},
+{
+    "date": "2017-10-06",
+    "month": "10",
+    "week": "40",
+    "weekday": "Friday",
+    "close": "29084.1981"
+},
+{
+    "date": "2017-10-07",
+    "month": "10",
+    "week": "40",
+    "weekday": "Saturday",
+    "close": "29521.3602"
+},
+{
+    "date": "2017-10-08",
+    "month": "10",
+    "week": "40",
+    "weekday": "Sunday",
+    "close": "30583.2886"
+},
+{
+    "date": "2017-10-09",
+    "month": "10",
+    "week": "41",
+    "weekday": "Monday",
+    "close": "31622.869"
+},
+{
+    "date": "2017-10-10",
+    "month": "10",
+    "week": "41",
+    "weekday": "Tuesday",
+    "close": "31243.3645"
+},
+{
+    "date": "2017-10-11",
+    "month": "10",
+    "week": "41",
+    "weekday": "Wednesday",
+    "close": "31830.4848"
+},
+{
+    "date": "2017-10-12",
+    "month": "10",
+    "week": "41",
+    "weekday": "Thursday",
+    "close": "35833.2539"
+},
+{
+    "date": "2017-10-13",
+    "month": "10",
+    "week": "41",
+    "weekday": "Friday",
+    "close": "37106.6814"
+},
+{
+    "date": "2017-10-14",
+    "month": "10",
+    "week": "41",
+    "weekday": "Saturday",
+    "close": "38222.2666"
+},
+{
+    "date": "2017-10-15",
+    "month": "10",
+    "week": "41",
+    "weekday": "Sunday",
+    "close": "37517.0856"
+},
+{
+    "date": "2017-10-16",
+    "month": "10",
+    "week": "42",
+    "weekday": "Monday",
+    "close": "37917.9925"
+},
+{
+    "date": "2017-10-17",
+    "month": "10",
+    "week": "42",
+    "weekday": "Tuesday",
+    "close": "37060.3182"
+},
+{
+    "date": "2017-10-18",
+    "month": "10",
+    "week": "42",
+    "weekday": "Wednesday",
+    "close": "36928.632"
+},
+{
+    "date": "2017-10-19",
+    "month": "10",
+    "week": "42",
+    "weekday": "Thursday",
+    "close": "37704.4579"
+},
+{
+    "date": "2017-10-20",
+    "month": "10",
+    "week": "42",
+    "weekday": "Friday",
+    "close": "39634.3994"
+},
+{
+    "date": "2017-10-21",
+    "month": "10",
+    "week": "42",
+    "weekday": "Saturday",
+    "close": "39827.4189"
+},
+{
+    "date": "2017-10-22",
+    "month": "10",
+    "week": "42",
+    "weekday": "Sunday",
+    "close": "39673.3776"
+},
+{
+    "date": "2017-10-23",
+    "month": "10",
+    "week": "43",
+    "weekday": "Monday",
+    "close": "39144.7834"
+},
+{
+    "date": "2017-10-24",
+    "month": "10",
+    "week": "43",
+    "weekday": "Tuesday",
+    "close": "36611.829"
+},
+{
+    "date": "2017-10-25",
+    "month": "10",
+    "week": "43",
+    "weekday": "Wednesday",
+    "close": "38067.9613"
+},
+{
+    "date": "2017-10-26",
+    "month": "10",
+    "week": "43",
+    "weekday": "Thursday",
+    "close": "39108.6475"
+},
+{
+    "date": "2017-10-27",
+    "month": "10",
+    "week": "43",
+    "weekday": "Friday",
+    "close": "38353.9173"
+},
+{
+    "date": "2017-10-28",
+    "month": "10",
+    "week": "43",
+    "weekday": "Saturday",
+    "close": "38122.1385"
+},
+{
+    "date": "2017-10-29",
+    "month": "10",
+    "week": "43",
+    "weekday": "Sunday",
+    "close": "40925.4142"
+},
+{
+    "date": "2017-10-30",
+    "month": "10",
+    "week": "44",
+    "weekday": "Monday",
+    "close": "40682.7268"
+},
+{
+    "date": "2017-10-31",
+    "month": "10",
+    "week": "44",
+    "weekday": "Tuesday",
+    "close": "42779.3067"
+},
+{
+    "date": "2017-11-01",
+    "month": "11",
+    "week": "44",
+    "weekday": "Wednesday",
+    "close": "44572.0627"
+},
+{
+    "date": "2017-11-02",
+    "month": "11",
+    "week": "44",
+    "weekday": "Thursday",
+    "close": "46462.0654"
+},
+{
+    "date": "2017-11-03",
+    "month": "11",
+    "week": "44",
+    "weekday": "Friday",
+    "close": "47518.0205"
+},
+{
+    "date": "2017-11-04",
+    "month": "11",
+    "week": "44",
+    "weekday": "Saturday",
+    "close": "49047.8253"
+},
+{
+    "date": "2017-11-05",
+    "month": "11",
+    "week": "44",
+    "weekday": "Sunday",
+    "close": "48907.9843"
+},
+{
+    "date": "2017-11-06",
+    "month": "11",
+    "week": "45",
+    "weekday": "Monday",
+    "close": "46159.7307"
+},
+{
+    "date": "2017-11-07",
+    "month": "11",
+    "week": "45",
+    "weekday": "Tuesday",
+    "close": "47249.3415"
+},
+{
+    "date": "2017-11-08",
+    "month": "11",
+    "week": "45",
+    "weekday": "Wednesday",
+    "close": "49427.7048"
+},
+{
+    "date": "2017-11-09",
+    "month": "11",
+    "week": "45",
+    "weekday": "Thursday",
+    "close": "47448.9118"
+},
+{
+    "date": "2017-11-10",
+    "month": "11",
+    "week": "45",
+    "weekday": "Friday",
+    "close": "43637.0596"
+},
+{
+    "date": "2017-11-11",
+    "month": "11",
+    "week": "45",
+    "weekday": "Saturday",
+    "close": "42085.6019"
+},
+{
+    "date": "2017-11-12",
+    "month": "11",
+    "week": "45",
+    "weekday": "Sunday",
+    "close": "38904.304"
+},
+{
+    "date": "2017-11-13",
+    "month": "11",
+    "week": "46",
+    "weekday": "Monday",
+    "close": "43279.9771"
+},
+{
+    "date": "2017-11-14",
+    "month": "11",
+    "week": "46",
+    "weekday": "Tuesday",
+    "close": "43801.9668"
+},
+{
+    "date": "2017-11-15",
+    "month": "11",
+    "week": "46",
+    "weekday": "Wednesday",
+    "close": "48232.4671"
+},
+{
+    "date": "2017-11-16",
+    "month": "11",
+    "week": "46",
+    "weekday": "Thursday",
+    "close": "52012.2859"
+},
+{
+    "date": "2017-11-17",
+    "month": "11",
+    "week": "46",
+    "weekday": "Friday",
+    "close": "50973.7739"
+},
+{
+    "date": "2017-11-18",
+    "month": "11",
+    "week": "46",
+    "weekday": "Saturday",
+    "close": "51542.0595"
+},
+{
+    "date": "2017-11-19",
+    "month": "11",
+    "week": "46",
+    "weekday": "Sunday",
+    "close": "53279.4604"
+},
+{
+    "date": "2017-11-20",
+    "month": "11",
+    "week": "47",
+    "weekday": "Monday",
+    "close": "54656.3545"
+},
+{
+    "date": "2017-11-21",
+    "month": "11",
+    "week": "47",
+    "weekday": "Tuesday",
+    "close": "53673.7877"
+},
+{
+    "date": "2017-11-22",
+    "month": "11",
+    "week": "47",
+    "weekday": "Wednesday",
+    "close": "54403.2305"
+},
+{
+    "date": "2017-11-23",
+    "month": "11",
+    "week": "47",
+    "weekday": "Thursday",
+    "close": "52676.5845"
+},
+{
+    "date": "2017-11-24",
+    "month": "11",
+    "week": "47",
+    "weekday": "Friday",
+    "close": "54136.6166"
+},
+{
+    "date": "2017-11-25",
+    "month": "11",
+    "week": "47",
+    "weekday": "Saturday",
+    "close": "57851.0594"
+},
+{
+    "date": "2017-11-26",
+    "month": "11",
+    "week": "47",
+    "weekday": "Sunday",
+    "close": "60980.0178"
+},
+{
+    "date": "2017-11-27",
+    "month": "11",
+    "week": "48",
+    "weekday": "Monday",
+    "close": "64246.5971"
+},
+{
+    "date": "2017-11-28",
+    "month": "11",
+    "week": "48",
+    "weekday": "Tuesday",
+    "close": "65458.8612"
+},
+{
+    "date": "2017-11-29",
+    "month": "11",
+    "week": "48",
+    "weekday": "Wednesday",
+    "close": "64890.9642"
+},
+{
+    "date": "2017-11-30",
+    "month": "11",
+    "week": "48",
+    "weekday": "Thursday",
+    "close": "65583.2597"
+},
+{
+    "date": "2017-12-01",
+    "month": "12",
+    "week": "48",
+    "weekday": "Friday",
+    "close": "71825.6883"
+},
+{
+    "date": "2017-12-02",
+    "month": "12",
+    "week": "48",
+    "weekday": "Saturday",
+    "close": "72079.2312"
+},
+{
+    "date": "2017-12-03",
+    "month": "12",
+    "week": "48",
+    "weekday": "Sunday",
+    "close": "74007.4136"
+},
+{
+    "date": "2017-12-04",
+    "month": "12",
+    "week": "49",
+    "weekday": "Monday",
+    "close": "76852.0129"
+},
+{
+    "date": "2017-12-05",
+    "month": "12",
+    "week": "49",
+    "weekday": "Tuesday",
+    "close": "77398.8752"
+},
+{
+    "date": "2017-12-06",
+    "month": "12",
+    "week": "49",
+    "weekday": "Wednesday",
+    "close": "90679.5487"
+},
+{
+    "date": "2017-12-07",
+    "month": "12",
+    "week": "49",
+    "weekday": "Thursday",
+    "close": "111589.9776"
+},
+{
+    "date": "2017-12-08",
+    "month": "12",
+    "week": "49",
+    "weekday": "Friday",
+    "close": "106233.201"
+},
+{
+    "date": "2017-12-09",
+    "month": "12",
+    "week": "49",
+    "weekday": "Saturday",
+    "close": "98676.7747"
+},
+{
+    "date": "2017-12-10",
+    "month": "12",
+    "week": "49",
+    "weekday": "Sunday",
+    "close": "99525.1027"
+},
+{
+    "date": "2017-12-11",
+    "month": "12",
+    "week": "50",
+    "weekday": "Monday",
+    "close": "110642.88"
+},
+{
+    "date": "2017-12-12",
+    "month": "12",
+    "week": "50",
+    "weekday": "Tuesday",
+    "close": "113732.6745"
+}]
