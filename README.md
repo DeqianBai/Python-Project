@@ -32,3 +32,12 @@ A series of python projects，持续更新。。。
 * 在图表中添加添加自定义工具提示
 * 使用GitHub API来探索GitHub上星级最高的Python项目；
 * 如何使用requests包来自动执行GitHub API调用，以及如何处理调用的结果
+
+## 4. 解析iTunes播放列表
+目标是找到音乐收藏中重复的乐曲，确定播放列表之间共同的音轨，绘制音轨时长的分布图，以及歌曲评分和时长之间的关系图。
+学习到的内容有：
+- XML和属性列表(p-list)文件：
+- Python 列表和字典
+- 使用Python 的set duix
+- 直方图和散点图
+- 创建和保存数据文件
