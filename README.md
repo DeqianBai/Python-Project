@@ -97,3 +97,11 @@ A series of python projects，持续更新。。。
 * 对新图像中的每个像素，根据该像素相关联的深度值，将它按比例地向
 右移；
 * 将三维立体画写入一个文件。
+
+## 9. 3D,2D 动画
+
+*  使用python，matplotlib.pyplot和animation.artistanimation在一个图中组合两个2D动画
+*  使用python，matplotlib.pyplot和animation.timedanimation在一个图中组合两个2D动画
+*  使用python，matplotlib.pyplot和animation.artistanimation在一个图中组合一个3D和两个2D动画
+*  使用python，matplotlib.pyplot和animation.timedanimation在一个图中组合一个3D和两个2D动画
+
